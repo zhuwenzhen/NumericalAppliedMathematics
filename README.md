@@ -1,18 +1,18 @@
 # Numerical Applied Mathematics
 
-| Week |      Monday      |     Wednesday    |      Friday      |
-|:----:|:----------------:|:----------------:|:----------------:|
-|   1  |  08/28 Lecture 0 |  08/30 Lecture 1 |  09/01 Lecture 2 |
-|   2  |  09/04 Labor Day |  09/06 Lecture 3 |  09/08 Lecture 4 |
-|   3  |  09/11 Lecture 5 |  09/13 Lecture 6 |  09/14 Lecture 7 |
-|   4  |  09/18 Lecture 8 | 09/20 Lecture 10 | 09/22 Lecture 11 |
-|   5  | 09/25 Lecture 12 | 09/27 Lecture 13 | 09/29 Lecture 14 |
-|   6  | 10/02 Lecture 15 | 10/04 Lecture 16 | 10/06 Lecture 17 |
-|   7  | 10/09 Lecture 18 | 10/11 Lecture 19 |   10/13 Exam 1   |
-|   8  | 10/16 Fall Break | 10/18 Lecture 20 | 10/20 Lecture 21 |
-|   9  | 10/23 Lecture 22 | 10/25 Lecture 23 | 10/27 Lecture 24 |
-|  10  | 10/30 Lecture 25 | 11/01 Lecture 26 | 11/03 Lecture 27 |
-|  11  | 11/06 Lecture 28 | 11/08 Lecture 29 | 11/10 Lecture 30 |
-|  12  | 11/13 Lecture 31 | 11/15 Lecture 32 | 11/17 Lecture 33 |
-|  13  |                  |                  |                  |
-|      |                  |                  |                  |
+| Week |                                   Monday                                   |                                  Wednesday                                 |                              Friday                             |
+|:----:|:--------------------------------------------------------------------------:|:--------------------------------------------------------------------------:|:---------------------------------------------------------------:|
+|   1  |                        08/28 Lecture 0: Introduction                       | 08/30 Lecture 1: Source of Numerical Error,  Convergence of Heron's Method |     09/01 Lecture 2: Finding roots via fixed point iteration    |
+|   2  |                               09/04 Labor Day                              |                   09/06 Lecture 3: Fixed point iteration                   |                09/08 Lecture 4: Relaxation Method               |
+|   3  |          09/11 Lecture 5: Rates of convergence  & Newton's Methods         |              09/13 Lecture 6: Alternatives to Newton's Method              |        09/14 Lecture 7: Intro to Numerical Linear Algebra       |
+|   4  | 09/18 Lecture 8: Solving Linear Systems  & Complexity of matrix operations |                      09/20 Lecture 9: LU Decomposition                     |                09/22 Lecture 10: LU Decomposition               |
+|   5  |                     09/25 Lecture 11: LU Decomposition                     |                     09/27 Lecture 12: LU Decomposition                     |    09/29 Lecture 13: Pivoting & Rounding Error  & Begin norms   |
+|   6  |                          10/02 Lecture 14: P-Norm                          |                          10/04 Lecture 15: p-norm                          |                     10/06 Lecture 16: p-norm                    |
+|   7  |              10/09 Lecture 17: Solutions of Nonlinear Systems              |                              10/11 Lecture 18                              |                           10/13 Exam 1                          |
+|   8  |                              10/16 Fall Break                              |                              10/18 Lecture 19                              | 10/20 Lecture 20: Iterative Methods in Numerical Linear Algebra |
+|   9  |       10/23 Lecture 21: Iterative Methods in Numerical Linear Algebra      |       10/25 Lecture 22: Iterative Methods in Numerical Linear Algebra      |                 10/27 Lecture 23: Interpolation                 |
+|  10  |                       10/30 Lecture 24: Interpolation                      |                    11/01 Lecture 25: Interpolation error                   |             11/03 Lecture 26: Hermite Interpolation             |
+|  11  |                              11/06 Lecture 27                              |               11/08 Lecture 28: Newton-Cotes Quadrature Rules              |                         11/10 Lecture 29                        |
+|  12  |        11/13 Lecture 30: Runge's Phenomenon and Chebyshev Polynomial       |                   11/15 Lecture 31: Chebyshev Polynomial                   |             11/17  Lecture 32: Orthogonal Polynomial            |
+|  13  |                                                                            |                                                                            |                                                                 |
+|  14  |                                                                            |                                                                            |                                                                 |
