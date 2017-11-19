@@ -1,31 +1,18 @@
-# NumericalAppliedMathematics
+# Numerical Applied Mathematics
 
-Computer arithmetic, error propagation, condition number and stability; mathematical modeling, approximation and convergence; roots of functions; calculus of finite differences; implicit and explicit methods for initial and boundary value problems; numerical integration; numerical solution of linear systems, matrix equations, and eigensystems; Fourier transforms; optimization
-
-  1. Fixed Point Iteration & Nonlinear Root Finding
-    (1) Existence of a fixed point
-      a) Brower's Theorem
-      b) Contraction Mapping Theorem
-    (2) Test of a fixed point is stable 
-    (3) Root Finding Methods:
-      a) Newton's Method
-      b) Relaxation Method
-      c) Secant Method
-    (4) Convergence Rate Comparison
-  2. Numerical Linear Algebra
-    (1) Big O notation & counting operation
-    (2) Upper Lower Triangular matrices
-    (3) Solving triangular system by substitution
-    (4) LU decomposition
-    (5) Pivoting
-    (6) Norms & Condition numbers
-  3. Fixed Point Iteration & Root Finding in R^n
-    (1) Contraction Mapping Theorem
-    (2) Fixed Point & Stability
-    (3) Newton's Method
-  4. Polynomial Interpolation
-  5. Newton-Cotes Quadrature
-    Composite Newton-Cotes Quadrature
-  6. Orthogonal Polynomial & Qaussian Quadrature
-    
-  
+| Week |      Monday      |     Wednesday    |      Friday      |
+|:----:|:----------------:|:----------------:|:----------------:|
+|   1  |  08/28 Lecture 0 |  08/30 Lecture 1 |  09/01 Lecture 2 |
+|   2  |  09/04 Labor Day |  09/06 Lecture 3 |  09/08 Lecture 4 |
+|   3  |  09/11 Lecture 5 |  09/13 Lecture 6 |  09/14 Lecture 7 |
+|   4  |  09/18 Lecture 8 | 09/20 Lecture 10 | 09/22 Lecture 11 |
+|   5  | 09/25 Lecture 12 | 09/27 Lecture 13 | 09/29 Lecture 14 |
+|   6  | 10/02 Lecture 15 | 10/04 Lecture 16 | 10/06 Lecture 17 |
+|   7  | 10/09 Lecture 18 | 10/11 Lecture 19 |   10/13 Exam 1   |
+|   8  | 10/16 Fall Break | 10/18 Lecture 20 | 10/20 Lecture 21 |
+|   9  | 10/23 Lecture 22 | 10/25 Lecture 23 | 10/27 Lecture 24 |
+|  10  | 10/30 Lecture 25 | 11/01 Lecture 26 | 11/03 Lecture 27 |
+|  11  | 11/06 Lecture 28 | 11/08 Lecture 29 | 11/10 Lecture 30 |
+|  12  | 11/13 Lecture 31 | 11/15 Lecture 32 | 11/17 Lecture 33 |
+|  13  |                  |                  |                  |
+|      |                  |                  |                  |
